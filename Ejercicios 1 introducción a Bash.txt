@@ -1,0 +1,10 @@
+﻿1. pwd
+2. ls
+3. stat ejercicios1.txt
+4. ls -sh
+5. ls -sh > ejercicios1.txt
+6. ls -l
+7. mkdir carpetaejercicios1
+8. ps
+9. ps -e > archivodeprocesos.txt
+10. ls > mis_archivos.txt

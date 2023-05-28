@@ -1,0 +1,20 @@
+﻿1. El comando top muestra los procesos en ejecución en tiempo real, por ejemplo:
+
+
+al tipear en la consola top (shift + m) ordenamos los procesos por MEM
+
+
+al tipear en la consola top (shift + t) los procesos se ordenan por TIME
+
+
+al tipear en la consola top (shift + o) los procesos se ordenan por state
+
+
+2. El comando cat es uno de los comandos más usados en Linux, y su función es mostrar y emitir todo el contenido de un archivo en la línea de comandos. Por otro lado, la funcionalidad del comando more es mostrar el resultado de la ejecución de un comando en la terminal y solo puede moverse hacía atrás. Y por último, el comando less, al igual que more, nos muestra texto en la pantalla terminal, pero permite movimientos hacía atrás y adelante y solo muestra el texto del archivo dado.
+
+
+3. ls -sh > archivos.txt
+4. cat archivos.txt
+5. archivos.txt > info_txt.txt
+6. rm info_txt.txt
+7. “cp archivos.txt copiarchivos.txt”, para borrar el archivo original “rm archivos.txt”
